@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doraa0
 - 👀 I’m interested in FrontEnd Web development
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on world changing projects using my skills. (I am open to Internships, part time and fulltime roles)
 - 📫 How to reach me via lucidora016@gmail.com
 
 <!---
